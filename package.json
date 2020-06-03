@@ -1,0 +1,17 @@
+{
+  "name": "postidfetcher",
+  "version": "1.0.0",
+  "description": "Fetches the ids via tha postid-ID class on the body of pages",
+  "main": "app.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "puppeteer": "^3.3.0",
+    "puppeteer-cluster": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

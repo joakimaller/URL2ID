@@ -1,0 +1,2 @@
+https://mywordpresssite.com/my-pretty-url
+https://mywordpresssite.com/another-url-that-has-a-body-class
